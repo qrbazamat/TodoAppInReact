@@ -1,0 +1,8 @@
+export const ADD_VALUE = 'ADD_VALUE'
+export const DELETE = 'DELETE'
+export const DELETE_ALL = 'DELETE_ALL'
+export const DO_NOT = 'DO_NOT'
+export const FILTER = 'FILTER'
+export const REVERSE = 'REVERSE'
+export const SET_VALUE = 'SET_VALUE'
+export const SORT_TASKS = 'SORT_TASKS'
